@@ -37,5 +37,5 @@ Fill color in container like liquid
 
 TODO: You can check example file how to used fill fliquid container. you can set background of container and you can change wave color as well
 
-# fill_fliquid_container
-# fill_fliquid_container
+# fill_liquid_container
+# fill_liquid_container

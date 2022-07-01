@@ -1,6 +1,6 @@
 name: fill_liquid_container
 description: Fill Liquid container
-version: 0.0.1
+version: 0.0.2
 homepage: https://github.com/porasMr/fill_liquid_container.git
 
 environment:
