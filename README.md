@@ -11,10 +11,10 @@ and the Flutter guide for
 [developing packages and plugins](https://flutter.dev/developing-packages). 
 -->
 
-TODO: Liquid container
+TODO: Fill Liquid container
 
 ## Features
-TODO: Add package in yaml file and used liquid container
+TODO: Add package in yaml file and used Fill Liquid container
 
 
 
@@ -27,7 +27,7 @@ start using the package.
 ## Usage
 
 TODO: Liquid container
-like this:- 
+Fill color in container like liquid
 
 
 
@@ -35,7 +35,7 @@ like this:-
 
 ## Additional information
 
-TODO: You can check example file how to used fliquid container. you can set background of container and you can change wave color as well
+TODO: You can check example file how to used fill fliquid container. you can set background of container and you can change wave color as well
 
-# fliquid_container
-# fliquid_container
+# fill_fliquid_container
+# fill_fliquid_container

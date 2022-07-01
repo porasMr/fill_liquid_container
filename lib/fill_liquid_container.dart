@@ -1,4 +1,4 @@
-library liquid_container;
+library fill_liquid_container;
 
 import 'dart:math';
 import 'package:flutter/material.dart';
@@ -113,13 +113,16 @@ class _ContainerLiquidFillState extends State<ContainerLiquidFill>
             ).createShader(bounds),
             child: Stack(
               children: [
-                Container(
-                  width: widget.boxWidth,
-                  height: widget.boxHeight,
-                  decoration: BoxDecoration(
-                      image: DecorationImage(
-                          image: AssetImage(widget.image), fit: BoxFit.cover)),
-                ),
+                widget.image != ""
+                    ? Container(
+                        width: widget.boxWidth,
+                        height: widget.boxHeight,
+                        decoration: BoxDecoration(
+                            image: DecorationImage(
+                                image: AssetImage(widget.image),
+                                fit: BoxFit.cover)),
+                      )
+                    : Container(),
                 Container(
                   margin: EdgeInsets.only(top: 30),
                   key: _containerKey,

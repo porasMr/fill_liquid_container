@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:liquid_container/liquid_container.dart';
+import 'package:fill_liquid_container/fill_liquid_container.dart';
 
 void main() {
   runApp(const MyApp());

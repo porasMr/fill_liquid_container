@@ -29,7 +29,7 @@ environment:
 dependencies:
   flutter:
     sdk: flutter
-  liquid_container:
+  fill_liquid_container:
     path: ../
 
 
