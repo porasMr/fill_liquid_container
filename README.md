@@ -29,6 +29,22 @@ start using the package.
 TODO: Liquid container
 Fill color in container like liquid
 
+**See this image**
+
+**Image 1**
+
+![alt text](https://github.com/porasMr/fill_liquid_container/blob/master/Simulator%20Screen%20Shot%20-%20iPhone%2011%20Pro%20-%202022-07-04%20at%2018.12.03.png)
+
+
+**Image 2**
+
+![alt text](https://github.com/porasMr/fill_liquid_container/blob/master/Simulator%20Screen%20Shot%20-%20iPhone%2011%20Pro%20-%202022-07-04%20at%2018.12.05.png)
+
+
+**Image 3**
+
+![alt text](https://github.com/porasMr/fill_liquid_container/blob/master/Simulator%20Screen%20Shot%20-%20iPhone%2011%20Pro%20-%202022-07-04%20at%2018.12.07.png)
+
 
 
 
